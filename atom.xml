@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://www.vtrain.asia/atom.xml" rel="self"/>
+  <link href="http://www.vtrain.asia/"/>
+  <updated>2016-02-16T21:18:40+05:30</updated>
+  <id>http://www.vtrain.asia/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
