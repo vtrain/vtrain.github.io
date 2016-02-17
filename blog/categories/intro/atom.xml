@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[V train]]></title>
-  <link href="http://www.vtrain.asia/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Intro | V train]]></title>
+  <link href="http://www.vtrain.asia/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://www.vtrain.asia/"/>
   <updated>2016-02-17T07:56:50+05:30</updated>
   <id>http://www.vtrain.asia/</id>
